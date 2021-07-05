@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PoliceApp</string>
+    <string name="calendar">Calendar</string>
+    <string name="test">Some button text</string>
+</resources>
